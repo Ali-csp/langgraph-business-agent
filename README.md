@@ -16,11 +16,11 @@ A LangGraph agent for analyzing daily business data (sales, costs, customers) an
    ```
 2. Run tests:
    ```bash
-   pytest agent2.py
+   pytest agent.py
    ```
 3. Run manually:
    ```bash
-   python agent2.py
+   python agent.py
    ```
 
 ## LangGraph Studio
