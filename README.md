@@ -37,7 +37,3 @@ A LangGraph agent for analyzing daily business data (sales, costs, customers) an
   }
   ```
 
-## Submission
-- Files: `agent2.py`, `README.md`
-- GitHub: [Insert your repo URL]
-- Telegram: Submit with title "Studio"
